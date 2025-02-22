@@ -1,0 +1,29 @@
+# 🔹 Arquivos de Configuração e Ambientes Virtuais
+venv/
+.env
+*.env
+*.ini
+config.json
+
+# 🔹 Arquivos de Log e Temporários
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+Thumbs.db
+
+# 🔹 Drivers e Dependências
+geckodriver/
+chromedriver/
+webdriver.log
+*.exe
+
+# 🔹 Relatórios e Saídas
+*.pdf
+*.csv
+*.xlsx
+relatorios/
+output/
